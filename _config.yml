@@ -1,4 +1,8 @@
-name: falafelthemovie.com
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -19,7 +23,7 @@ purpose: []
 color:
   saturation: 0
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#FFFFFD'
     - '#1E191D'
@@ -29,12 +33,8 @@ color:
   rhythmicContrast: 0
 typography_spectrum: 0.5394265
 layout_spectrum: 0.59319
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+name: falafelthemovie.com
