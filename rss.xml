@@ -4,8 +4,15 @@
         <description><![CDATA[falafelthemovie.com]]></description>
         <link>http://falafelthemovie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 18:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 18:13:39 GMT</lastBuildDate>
         <atom:link href="http://falafelthemovie.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FALAFEL Trailer]]></title>
+            <description><![CDATA[<article><h1>FALAFEL Trailer</h1><p>Titre du film: FALAFEL Bande Annonce Film title: FALAFEL Trailer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bd14eff4cb83bda680e1568968b020de6ed87d5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=qUSqgBk7Mfc</link>
+            <guid isPermaLink="false">c6f66a9b-c6f0-48f5-8965-120920135dce</guid>
+            <pubDate>Thu, 10 Mar 2016 18:13:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e68309a-7315-4691-b178-82876b402e11.png">]]></description>
