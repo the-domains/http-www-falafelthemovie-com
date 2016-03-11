@@ -1,8 +1,7 @@
-name: falafelthemovie.com
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: FALAFEL
+favicon: null
+layout_spectrum: 0.59319
+typography_spectrum: 0.2896
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#3A2F31'
     - '#FFFFFF'
     - '#B42731'
     - '#B5B3B4'
     - '#E9A328'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.5394265
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.59319
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
